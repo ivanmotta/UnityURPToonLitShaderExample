@@ -1,12 +1,12 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
 
-This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
-Currently, this repository is still a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
-
-We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" toon shader package - NiloToonURP,
+This repository is NOT the full version shader.
+Currently, this repository is just a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
+-----------------------------------------
+We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
-NiloToonURP is tested and working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
+NiloToonURP is tested and working correctly on 2020.3LTS (confirmed on 2021-3-11).  
 
 Download NiloToonURP android .apk demo (2020.3LTS build):
 - https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
@@ -15,12 +15,31 @@ Download NiloToonURP PC, Mac, and Linux standalone demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 NiloToonURP's runtime video: 
-- https://youtu.be/VFFjMpmJ7WQ
+- https://youtu.be/q7VloWbkSaA
 - https://youtu.be/hBNs-7tyrU4
+- https://youtu.be/NI-n-cmTJHM
+- https://www.bilibili.com/video/BV1pp4y1s7Up?from=search&seid=7853367419842130632
+
+If you/your company needs 
+- latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
+- latest user document
+- perpetual royalty-free commercial license
+- every future update
+- (optional) your project's specific customization and support 
+
+of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
+- name (your name or your company's name)
+- a google account email for gaining permission to access NiloToonURP in google drive
+- any public website that shows your/your company's work or public media  
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
+![screenshot](https://i.imgur.com/Rtft0od.png)
+![screenshot](https://i.imgur.com/EMRp14N.png)
+![screenshot](https://i.imgur.com/sN5n9bc.png)
+![screenshot](https://i.imgur.com/qlNMncE.png)
+![screenshot](https://i.imgur.com/HuOMLYn.png)
 ![screenshot](https://i.imgur.com/5F5x82u.png)
 ![screenshot](https://i.imgur.com/azlQ8KO.png)
 ![screenshot](https://i.imgur.com/LUwoSiY.png)
@@ -31,14 +50,7 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/McKrRYW.png)
 ![screenshot](https://i.imgur.com/2fOhV13.png)
-
-If your company needs the 
-- latest source code (with all detail comments and notes)
-- complete 2020.3LTS demo project (include everything you see in the downloadable demo)
-- perpetual royalty free commercial license
-- (optional) future update and support
-- (optional) project specific customization  
-of NiloToonURP for your URP project, please contact: nilotoon@gmail.com  
+![screenshot](https://i.imgur.com/DaRpLLX.png)
 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
@@ -371,3 +383,4 @@ model's creator in shader demo image/video:
 - miHoYo - Genshin Impact
 - 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
 - Cygames - Uma Musume
+- Cygames/Arc System Works - Granblue Fantasy Versus
